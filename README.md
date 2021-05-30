@@ -6,7 +6,7 @@ playing them.
 I am currently looking for a Software Engineer / Developer / Game Developer jobs in C# or C++ specifically but I am willing to exand into more languages as well!
 
 
-##Socials:
+**Socials:**
 
 [**Twitter**](https://twitter.com/Roll_1nitiative)
 [**LinkedIn**](https://www.linkedin.com/in/zack-hawkins-b1058719b/)
