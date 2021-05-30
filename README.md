@@ -8,9 +8,9 @@ I am currently looking for a Software Engineer / Developer / Game Developer jobs
 
 **Socials:**
 
-[**Twitter**](https://twitter.com/Roll_1nitiative)
-[**LinkedIn**](https://www.linkedin.com/in/zack-hawkins-b1058719b/)
-[**Website**](https://zackh019.wixsite.com/zackhawkinsgamedev)
+[**Twitter**](https://twitter.com/Roll_1nitiative)  
+[**LinkedIn**](https://www.linkedin.com/in/zack-hawkins-b1058719b/)  
+[**Website**](https://zackh019.wixsite.com/zackhawkinsgamedev)  
 
 <!---
 Fich019/Fich019 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
